@@ -1,4 +1,6 @@
 # first-demo-
-this is my first demo repository 
-author - rajan parmar
+this is my first demo repository.
+<br>
+author - rajan parmar.
+<br>
 study - Btech , computer engineering ....
